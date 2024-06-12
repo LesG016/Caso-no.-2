@@ -58,9 +58,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Código**
 
-**Descripción del archivo:** Un supermercado tiene récord de las compras realizadas por mujeres de distintas edad, se ha recopilado información del año de nacimiento, educación, estado civil, ingresos y si poseen niños o adolescentes en casa, todos estos aspectos incluyen en su forma de consumo sobre productos como carnes, frutas, vinos, pescado y alimentos dulces así como la cantidad de compras que realizan al mes y su preferencia de modalidad de compra.
-Y esta información la buscan utilizar para crear publicidad y espacios interactivos acorde a los clientes que más consumen ciertos productos, es necesario conocer qué factores influyen para sus compras. 
-
+**Descripción del archivo:**
 
 **Problema a resolver**
 
@@ -72,7 +70,7 @@ Y esta información la buscan utilizar para crear publicidad y espacios interact
 ## Ingeniería de datos 
 **Nombre del archivo:** 
 
-**Código** [Análisis de tipo de cambio de moneda](https://github.com/LesG016/Portafolio-caso-2/blob/99499807806d3e706e7e7936349144adcb4a0b7a/Tipo_de_cambio.ipynb)
+**Código**
 
 **Descripción del archivo** 
 
