@@ -44,7 +44,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 ## Visualización de datos 
-**Nombre del archivo:**
+**Nombre del archivo:** Visualización de datos
 
 **Código:**
 
