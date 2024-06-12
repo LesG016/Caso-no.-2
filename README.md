@@ -42,9 +42,13 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 **Descripción del archivo:** Un supermercado tiene récord de las compras realizadas por mujeres de distintas edad, se ha recopilado información del año de nacimiento, educación, estado civil, ingresos y si poseen niños o adolescentes en casa, todos estos aspectos incluyen en su forma de consumo sobre productos como carnes, frutas, vinos, pescado y alimentos dulces así como la cantidad de compras que realizan al mes y su preferencia de modalidad de compra.
 
 
-**Problema a resolver**
+**Problema a resolver** Búsqueda de categorías de productos más consumidos por categorías de clientes para establecer el tono de la publicidad a crear para un supermercado.
 
-**Preguntas planteadas**
+**Preguntas planteadas** 
+¿Qué grupo consume más carnes?
+¿Quienes consumen más por catálogos?
+¿Quiénes compran más en línea?
+
 
 **Resultado**
 
