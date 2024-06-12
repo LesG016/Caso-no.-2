@@ -1,6 +1,7 @@
 # Caso-no.-2
 Conjunto de documentos que evidencian la limpieza, análisis, visualización, ciencia e ingeniería de datos por parte del grupo de trabajo conformado por Leslie Gil, Mirka Guzman, Kristina Maldonado y Marielos Oscal
 
+
 ## Tabla de contenido
 
 1. Limpieza y transformación
@@ -8,6 +9,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 3. Visualización de datos
 4. Ciencia de datos
 5. Ingeniería de datos
+
 
 ## Limpieza de datos
 **Nombre del archivo:**
@@ -22,6 +24,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Resultado**
 
+
 ## Análisis de datos
 **Nombre del archivo:**
 
@@ -34,6 +37,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 **Preguntas planteadas**
 
 **Resultado**
+
 
 ## Visualización de datos 
 **Nombre del archivo:**
@@ -48,6 +52,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Resultado**
 
+
 ## Ciencia de datos
 **Nombre del archivo:**
 
@@ -60,6 +65,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 **Preguntas planteadas**
 
 **Resultado**
+
    
 ## Ingeniería de datos 
 **Nombre del archivo:**
