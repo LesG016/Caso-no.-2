@@ -46,15 +46,21 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 ## Visualización de datos 
 **Nombre del archivo:** Visualización de datos
 
-**Código:**
+**Código:** 
+[Limpieza de datos] (https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/Limpieza%20de%20datos%20(Visualizaci%C3%B3n).ipynb)
+[Dashboard] (https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/VISUALIZACI%C3%93N%20DE%20DATOS.pbix)
 
-**Lenguaje y plataforma empleada:**
+**Lenguaje y plataforma empleada:** Limpieza de datos Google Colab (Con lenguaje R) y Power Bi para realización de dashboard. 
 
-**Descripción del archivo**
+**Descripción del archivo:** El presente Dashboard, muestra información valiosa sobre el comportamiento del consumidor y los patrones de compra, respecto a una tienda de ropa. Por ello, se captura una amplia gama sobre el cliente como edad, sexo, localización, estación en la que compras las prendas, talla, compras en USD, compras anteriores, entre otras. 
 
-**Problema a resolver**
+**Problema a resolver:** ¿Cómo se puede aumentar las ventas con base a la información recopilada sobre el comportamiento de los clientes?
 
 **Preguntas planteadas**
+	¿Cuál es el sexo que realiza más compras en la tienda de ropa?
+	¿Cuál es el método más utilizado por los clientes?
+	¿Cuáles son los productos más vendidos de las categorías (Accesorios, ropa, zapatos, abrigos)?
+
 
 **Resultado**
 
