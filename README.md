@@ -14,7 +14,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 ## Limpieza de datos
 **Nombre del archivo:**
 
-**Código**
+**Código** [Análisis de tipo de cambio de moneda](https://github.com/LesG016/Portafolio-caso-2/blob/99499807806d3e706e7e7936349144adcb4a0b7a/Tipo_de_cambio.ipynb)
 
 **Descripçión del archivo**
 
