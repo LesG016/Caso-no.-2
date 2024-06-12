@@ -84,6 +84,7 @@ Y esta información la buscan utilizar para crear publicidad y espacios interact
 
 **Problema a resolver y preguntar planteadas**
 ¿Cómo se podría mejorar el alcance de merchandising y descuentos en los puntos de venta y en la página en línea del supermercado? 
+Con las siguientes situaciones:
 1. Mujer casada nacida en 1972 graduada de licenciatura sin niños, con adolescentes y con ingresos de 4500
 2. Mujer divorciada nacida en 1976 sin estudios universitarios con niños, con adolescentes y con ingresos de 8000
 3. Mujer soltera nacida en 1998 con profesorado sin niños, sin adolescentes y con ingresos de 7680
