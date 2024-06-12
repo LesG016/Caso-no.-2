@@ -14,7 +14,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 ## Limpieza de datos
 **Nombre del archivo:** LIMPIEZA DE DATOS
 
-**Código:** [Limpieza de datos] (https://github.com/LesG016/Portafolio-caso-2/blob/7c0e0b2cdae7f88bdb3c30abdeac1bd8850a3534/LIMPIEZA_DE_DATOS.ipynb)
+**Código:** [Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/7c0e0b2cdae7f88bdb3c30abdeac1bd8850a3534/LIMPIEZA_DE_DATOS.ipynb)
 
 **Lenguaje y plataforma empleada:**
 
