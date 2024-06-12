@@ -95,6 +95,12 @@ Con las siguientes situaciones:
 3. Mujer soltera nacida en 1998 con profesorado sin niños, sin adolescentes y con ingresos de 7680
 
 **Resultado**
+1. Una mujer casada nacida en 1972 graduada de licenciatura sin niños, con adolescentes y con ingresos de 4500 consume mayormente vinos y productos con Oro pero su vía de compra es en la web por lo que se puede adaptar y crear promociones para este segmento en esas dos categorías. 
+2. La mujer divorciada nacida en 1976 sin estudios universitarios con niños, con adolescentes y con ingresos de 8000 consume más frutas, carnes y productos con oro para el cuidado personal pero sus preferencias para acercarse a la tienda son casi iguales entre la página web y visitar el establecimiento pero dado que visita seguido la pagina, se pueden alertar ofertas de estas categorías o enviar correos con esta información. 
+3. Ahora, con la mujer soltera nacida en 1998 con profesorado sin niños, sin adolescentes y con ingresos de 7680 se ve un gran incremento en compra de vinos, carnes y productos con oro para el cuidado personal, ya que suele visitar mas la pagina web, la creación de cupones y promociones es vital en línea para su aprovechamiento.
+
+Los tres casos indican mayores inclinaciones a compras o visitas en línea por lo que es más adecuado adaptar la página web a los consumidores y no gastar en merchandising físico en la tienda ya que obtendrá peores resultados con estos segmentos de compradores. 
+
 
    
 ## Ingeniería de datos 
