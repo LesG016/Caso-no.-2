@@ -60,17 +60,21 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 ## Ciencia de datos
-**Nombre del archivo:**
+**Nombre del archivo:** Clientes de supermercado
 
-**Código**
+**Código** [Clientes supermercado](https://github.com/LesG016/Portafolio-caso-2/blob/64fa0f57b40e3a2bbf52bf6dd125261b7074b808/Clientes_supermercado.ipynb)
 
-**Lenguaje y plataforma empleada:**
+**Lenguaje y plataforma empleada:** Python en Google Colab
 
-**Descripción del archivo:**
+**Descripción del archivo:** Un supermercado tiene récord de las compras realizadas por mujeres de distintas edad, se ha recopilado información del año de nacimiento, educación, estado civil, ingresos y si poseen niños o adolescentes en casa, todos estos aspectos incluyen en su forma de consumo sobre productos como carnes, frutas, vinos, pescado y alimentos dulces así como la cantidad de compras que realizan al mes y su preferencia de modalidad de compra.
+Y esta información la buscan utilizar para crear publicidad y espacios interactivos acorde a los clientes que más consumen ciertos productos, es necesario conocer qué factores influyen para sus compras. 
 
-**Problema a resolver**
 
-**Preguntas planteadas**
+**Problema a resolver y preguntar planteadas**
+¿Cómo se podría mejorar el alcance de merchandising y descuentos en los puntos de venta y en la página en línea del supermercado? 
+1. Mujer casada nacida en 1972 graduada de licenciatura sin niños, con adolescentes y con ingresos de 4500
+2. Mujer divorciada nacida en 1976 sin estudios universitarios con niños, con adolescentes y con ingresos de 8000
+3. Mujer soltera nacida en 1998 con profesorado sin niños, sin adolescentes y con ingresos de 7680
 
 **Resultado**
 
