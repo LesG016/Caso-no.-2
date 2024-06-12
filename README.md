@@ -39,7 +39,8 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 
 **Lenguaje y plataforma empleada:** Python en Google Colab
 
-**Descripción del archivo**
+**Descripción del archivo:** Un supermercado tiene récord de las compras realizadas por mujeres de distintas edad, se ha recopilado información del año de nacimiento, educación, estado civil, ingresos y si poseen niños o adolescentes en casa, todos estos aspectos incluyen en su forma de consumo sobre productos como carnes, frutas, vinos, pescado y alimentos dulces así como la cantidad de compras que realizan al mes y su preferencia de modalidad de compra.
+
 
 **Problema a resolver**
 
