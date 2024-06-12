@@ -57,9 +57,9 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 **Problema a resolver:** ¿Cómo se puede aumentar las ventas con base a la información recopilada sobre el comportamiento de los clientes?
 
 **Preguntas planteadas**
-	¿Cuál es el sexo que realiza más compras en la tienda de ropa?
-	¿Cuál es el método más utilizado por los clientes?
-	¿Cuáles son los productos más vendidos de las categorías (Accesorios, ropa, zapatos, abrigos)?
+1. ¿Cuál es el sexo que realiza más compras en la tienda de ropa?
+2. ¿Cuál es el método más utilizado por los clientes?
+3. ¿Cuáles son los productos más vendidos de las categorías (Accesorios, ropa, zapatos, abrigos)?
 
 
 **Resultado**
