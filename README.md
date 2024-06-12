@@ -25,9 +25,9 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 **Preguntas planteadas:**
-¿En qué red social predomina el sentiemiento positivo?
-¿Cuáles son los sentimientos más frecuentes? 
-¿Cuáles son los sentimientos menos frecuentes? 
+1. ¿En qué red social predomina el sentiemiento positivo?
+2. ¿Cuáles son los sentimientos más frecuentes? 
+3. ¿Cuáles son los sentimientos menos frecuentes? 
 
 **Resultado:**
 En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentimientos positivos, siento este repedio 45 veces, por lo que las acciones sociales están siendo aceptadas por los usuarios, cabe mencionar que la interacción y la utilización de hashtagss fomenta que estos sentimientos aumenten por lo que se debe utilizar al postear en  las mismas. 
@@ -45,9 +45,9 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 **Problema a resolver** Búsqueda de categorías de productos más consumidos por categorías de clientes para establecer el tono de la publicidad a crear para un supermercado.
 
 **Preguntas planteadas** 
-¿Qué grupo consume más carnes?
-¿Quienes consumen más por catálogos?
-¿Quiénes compran más en línea?
+1. ¿Qué grupo consume más carnes?
+2. ¿Quienes consumen más por catálogos?
+3. ¿Quiénes compran más en línea?
 
 
 **Resultado**
