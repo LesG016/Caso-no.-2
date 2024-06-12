@@ -47,8 +47,8 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 **Nombre del archivo:** Visualización de datos
 
 **Código:** 
-[Limpieza de datos] (https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/Limpieza%20de%20datos%20(Visualizaci%C3%B3n).ipynb)
-[Dashboard] (https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/VISUALIZACI%C3%93N%20DE%20DATOS.pbix)
+[Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/Limpieza%20de%20datos%20(Visualizaci%C3%B3n).ipynb)
+[Dashboard](https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/VISUALIZACI%C3%93N%20DE%20DATOS.pbix)
 
 **Lenguaje y plataforma empleada:** Limpieza de datos Google Colab (Con lenguaje R) y Power Bi para realización de dashboard. 
 
