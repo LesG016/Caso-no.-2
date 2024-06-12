@@ -14,21 +14,25 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 ## Limpieza de datos
 **Nombre del archivo:**
 
-**Código** 
+**Código:** 
 
-**Descripçión del archivo**
+**Lenguaje y plataforma empleada:**
 
-**Problema a resolver**
+**Descripçión del archivo:**
 
-**Preguntas planteadas**
+**Problema a resolver:**
 
-**Resultado**
+**Preguntas planteadas:**
+
+**Resultado:**
 
 
 ## Análisis de datos
 **Nombre del archivo:**
 
 **Código**
+
+**Lenguaje y plataforma empleada:**
 
 **Descripción del archivo**
 
@@ -42,7 +46,9 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 ## Visualización de datos 
 **Nombre del archivo:**
 
-**Código**
+**Código:**
+
+**Lenguaje y plataforma empleada:**
 
 **Descripción del archivo**
 
@@ -58,6 +64,8 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Código**
 
+**Lenguaje y plataforma empleada:**
+
 **Descripción del archivo:**
 
 **Problema a resolver**
@@ -70,12 +78,14 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 ## Ingeniería de datos 
 **Nombre del archivo:** 
 
-**Código**
+**Código:**
 
-**Descripción del archivo** 
+**Lenguaje y plataforma empleada:** Lenguaje de programación R ejecutado en Colab. 
 
-**Problema a resolver**
+**Descripción del archivo:** 
 
-**Preguntas planteadas**
+**Problema a resolver:**
+
+**Preguntas planteadas:**
 
 **Resultado**
