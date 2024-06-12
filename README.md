@@ -68,11 +68,11 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
    
 ## Ingeniería de datos 
-**Nombre del archivo:**
+**Nombre del archivo:** 
 
-**Código**
+**Código** 
 
-**Descripción del archivo**
+**Descripción del archivo** 
 
 **Problema a resolver**
 
