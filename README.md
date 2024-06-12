@@ -30,7 +30,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Código**
 
-**Descripçión del archivo**
+**Descripción del archivo**
 
 **Problema a resolver**
 
@@ -44,7 +44,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Código**
 
-**Descripçión del archivo**
+**Descripción del archivo**
 
 **Problema a resolver**
 
@@ -58,7 +58,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Código**
 
-**Descripçión del archivo**
+**Descripción del archivo**
 
 **Problema a resolver**
 
@@ -72,7 +72,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Código**
 
-**Descripçión del archivo**
+**Descripción del archivo**
 
 **Problema a resolver**
 
