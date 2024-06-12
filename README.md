@@ -18,14 +18,19 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 **Lenguaje y plataforma empleada:** R en Google Colab
 
-**Descripçión del archivo:**
+**Descripçión del archivo:** La base de datos demuestra los diferentes sentimientos que se representan por medio de las redes sociales como Facebook, Instagram, entre otros. Cada entrada revela historias únicas (momentos de sorpresa, emoción, admiración, emoción, satisfacción y más) compartidas por personas de todo el mundo.
 
-**Problema a resolver:**
+**Problema a resolver:** 
+¿Cómo determinar el tipo de publicaciones para redes sociales?
+
 
 **Preguntas planteadas:**
+¿En qué red social predomina el sentiemiento positivo?
+¿Cuáles son los sentimientos más frecuentes? 
+¿Cuáles son los sentimientos menos frecuentes? 
 
 **Resultado:**
-
+En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentimientos positivos, siento este repedio 45 veces, por lo que las acciones sociales están siendo aceptadas por los usuarios, cabe mencionar que la interacción y la utilización de hashtagss fomenta que estos sentimientos aumenten por lo que se debe utilizar al postear en  las mismas. 
 
 ## Análisis de datos
 **Nombre del archivo:**
@@ -63,6 +68,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 **Resultado**
+Se debe realizar campañas focalizadas en el sexo femenino porque este género forma parte del 67.74% de la empresa, además, que uno de los métodos mayormente utilizados es “Credit Card”, por último, los productos que se recomienda mantener en stock son: de la categoría de accesorios son Joyas, de Ropa son blusas, por otro lado, zapatos, y abrigos.
 
 
 ## Ciencia de datos
