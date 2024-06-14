@@ -1,5 +1,5 @@
 # Caso-no.-2
-Conjunto de documentos que evidencian la limpieza, análisis, visualización, ciencia e ingeniería de datos por parte del grupo de trabajo conformado por Leslie Gil, Mirka Guzman, Kristina Maldonado y Marielos Oscal
+Conjunto de documentos que evidencian la limpieza, análisis, visualización, ciencia e ingeniería de datos por parte del grupo de trabajo conformado por Leslie Gil, Mirka Guzman, Kristina Maldonado y Marielos Oscal. Se hizo uso de diferentes bases de datos que poseen información relevante para la realización de los procedimientos anteriormente mencionados. 
 
 
 ## Tabla de contenido
