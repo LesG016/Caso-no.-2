@@ -112,8 +112,12 @@ Los tres casos indican mayores inclinaciones a compras o visitas en línea por l
 
 **Descripción del archivo:** Se presenta la comparativa de precios de compra de dolares en el Banco Agromercantil y Banco Ficohsa. La información fue extraida de las respectivas páginas web de cada uno de los bancos con el objetivo de que la información obtenida sean los precios actuales independientemente en que fecha se realice la consulta. Posterior a obtener cada uno de los precios, se realiza una comparativa para determinar en cuál de los bancos es mejor realizar la compra. 
 
-**Problema a resolver:**
+**Problema a resolver:** ¿En cuál de los bancos analizados es más rentable realizar la compra de divisas? 
 
 **Preguntas planteadas:**
+1. ¿Cuál es el precio de compra de dólares en el Banco Agromercantil?
+2. ¿Cuál es el precio de compra de dólares en el Ficohsa?
+3. ¿En que banco es más rentable realizar la compra de dólares?
 
-**Resultado**
+
+**Resultado:** Este es variable ya que segpun los bancos realicen modificaciones en sus precios de venta, será el Banco recomendado para efectuar la compra. 
