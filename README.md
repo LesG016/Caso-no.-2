@@ -12,7 +12,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 ## Limpieza de datos
-**Nombre del archivo:** LIMPIEZA DE DATOS
+**Nombre del archivo:** Limpieza de datos
 
 **Código:** [Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/7c0e0b2cdae7f88bdb3c30abdeac1bd8850a3534/LIMPIEZA_DE_DATOS.ipynb)
 
@@ -120,4 +120,4 @@ Los tres casos indican mayores inclinaciones a compras o visitas en línea por l
 3. ¿En que banco es más rentable realizar la compra de dólares?
 
 
-**Resultado:** Este es variable ya que segpun los bancos realicen modificaciones en sus precios de venta, será el Banco recomendado para efectuar la compra. 
+**Resultado:** Este es variable ya que segun los bancos realicen modificaciones en sus precios de venta, será el Banco recomendado para efectuar la compra.
