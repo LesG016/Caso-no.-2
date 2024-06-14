@@ -54,7 +54,7 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 
 
 ## Visualización de datos 
-**Nombre del archivo:**Conjunto de datos de tendencias de compra de clientes
+**Nombre del archivo:** Conjunto de datos de tendencias de compra de clientes
 
 **Código:** 
 [Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/Limpieza%20de%20datos%20(Visualizaci%C3%B3n).ipynb)
