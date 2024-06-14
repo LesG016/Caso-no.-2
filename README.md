@@ -110,7 +110,7 @@ Los tres casos indican mayores inclinaciones a compras o visitas en línea por l
 
 **Lenguaje y plataforma empleada:** Lenguaje de programación R ejecutado en Colab. 
 
-**Descripción del archivo:** Se presenta la comparativa de precios de compra de dolasres en el Banco Agromercantil y Banco Ficohsa 
+**Descripción del archivo:** Se presenta la comparativa de precios de compra de dolares en el Banco Agromercantil y Banco Ficohsa. La información fue extraida de las respectivas páginas web de cada uno de los bancos con el objetivo de que la información 
 
 **Problema a resolver:**
 
