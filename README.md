@@ -106,7 +106,7 @@ Los tres casos indican mayores inclinaciones a compras o visitas en línea por l
 ## Ingeniería de datos 
 **Nombre del archivo:** Comparativa de precio de compra de divisas ($)
 
-**Código:**
+**Código:** [Tipo de cambio de dos bancos](https://github.com/LesG016/Portafolio-caso-2/blob/6e7bf0f31587c0f24095d0f3dbdd73f60a162c55/Tipo_de_cambio_Bancos.ipynb)
 
 **Lenguaje y plataforma empleada:** Lenguaje de programación R ejecutado en Colab. 
 
