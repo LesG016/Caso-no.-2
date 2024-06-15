@@ -57,7 +57,7 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 **Nombre del archivo:** Conjunto de datos de tendencias de compra de clientes
 
 **Código:** 
-[Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/Limpieza%20de%20datos%20(Visualizaci%C3%B3n).ipynb)
+[Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/6131941ad7d51f0ec43774633e4c085a067bb529/Limpieza_de_datos_(Visualizaci%C3%B3n).ipynb)
 [Dashboard](https://github.com/LesG016/Portafolio-caso-2/blob/88e1eb970d27bbf411c03bf2d6eda9ce577e09da/VISUALIZACI%C3%93N%20DE%20DATOS.pbix)
 
 **Lenguaje y plataforma empleada:** Limpieza de datos Google Colab (Con lenguaje R) y Power Bi para realización de dashboard. 
