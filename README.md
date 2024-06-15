@@ -12,7 +12,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 ## Limpieza de datos
-**Nombre del archivo:** Sentimiento en Redes Sociales
+**Nombre del archivo:** [Sentimiento en Redes Sociales](https://github.com/LesG016/Portafolio-caso-2/blob/18b8f42657f0037d56d101d5b848371d8ab5e8a7/sentimentdataset%20(2).xlsx)
 
 **Código:** [Sentimiento en Redes Sociales](https://github.com/LesG016/Portafolio-caso-2/blob/7c0e0b2cdae7f88bdb3c30abdeac1bd8850a3534/LIMPIEZA_DE_DATOS.ipynb)
 
