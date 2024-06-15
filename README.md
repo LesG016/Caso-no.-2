@@ -33,7 +33,7 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentimientos positivos, siento este repedio 45 veces, por lo que las acciones sociales están siendo aceptadas por los usuarios, cabe mencionar que la interacción y la utilización de hashtagss fomenta que estos sentimientos aumenten por lo que se debe utilizar al postear en  las mismas. 
 
 ## Análisis de datos
-**Nombre del archivo:** Clientes supermercado
+**Nombre del archivo:** [Clientes supermercado](https://github.com/LesG016/Portafolio-caso-2/blob/894a19250fb4de6f2416775272111d6b43cdf627/clientes.xlsx)
 
 **Código** [Análisis clientes supermercado](https://github.com/LesG016/Portafolio-caso-2/blob/e795070ff124f3cd23d789d7887d774a7b015df4/Analisis_clientes_supermercado.ipynb)
 
@@ -77,7 +77,7 @@ Se debe realizar campañas focalizadas en el sexo femenino porque este género f
 
 
 ## Ciencia de datos
-**Nombre del archivo:** Clientes de supermercado
+**Nombre del archivo:** [Clientes supermercado](https://github.com/LesG016/Portafolio-caso-2/blob/894a19250fb4de6f2416775272111d6b43cdf627/clientes.xlsx)
 
 **Código** [Clientes supermercado](https://github.com/LesG016/Portafolio-caso-2/blob/64fa0f57b40e3a2bbf52bf6dd125261b7074b808/Clientes_supermercado.ipynb)
 
