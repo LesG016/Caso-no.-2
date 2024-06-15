@@ -12,9 +12,9 @@ Conjunto de documentos que evidencian la limpieza, análisis, visualización, ci
 
 
 ## Limpieza de datos
-**Nombre del archivo:** Limpieza de datos
+**Nombre del archivo:** Sentimiento en Redes Sociales
 
-**Código:** [Limpieza de datos](https://github.com/LesG016/Portafolio-caso-2/blob/7c0e0b2cdae7f88bdb3c30abdeac1bd8850a3534/LIMPIEZA_DE_DATOS.ipynb)
+**Código:** [Sentimiento en Redes Sociales](https://github.com/LesG016/Portafolio-caso-2/blob/7c0e0b2cdae7f88bdb3c30abdeac1bd8850a3534/LIMPIEZA_DE_DATOS.ipynb)
 
 **Lenguaje y plataforma empleada:** R en Google Colab
 
