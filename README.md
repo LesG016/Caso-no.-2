@@ -50,8 +50,7 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 3. ¿Quiénes compran más en línea?
 
 
-**Resultado** El primer grupo conformado por personas que se encuentran solteras con una educación hasta el grado de licenciatura. 
-
+**Resultado** El primer grupo conformado por personas que se encuentran solteras con una educación hasta el grado de licenciatura. Por otro lado el grupo que realiza una mayor cantidad de compra por catálogo son nuevamente las personas solteras pero ahora con un grado educativo en curso. Y con respecto a la última interrogante se obtuvo que son mayormente realizadas por personas que estan en unión de hecho con una maestría. 
 
 ## Visualización de datos 
 **Nombre del archivo:** Conjunto de datos de tendencias de compra de clientes
