@@ -50,7 +50,7 @@ En las redes sociales de Facebook, Instagram y Twitter se demuestran más sentim
 3. ¿Quiénes compran más en línea?
 
 
-**Resultado**
+**Resultado** El primer grupo conformado por personas que se encuentran solteras con una educación hasta el grado de licenciatura. 
 
 
 ## Visualización de datos 
